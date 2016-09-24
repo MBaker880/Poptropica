@@ -1,2 +1,11 @@
 # Poptropica
-poptropica stuff. im too lazy to make a good read me rn k
+Poptropica Dump of mostly everything on Poptropica.
+Contains only website files currently.
+
+Changelog:
+9/24/2016 - Start
+
+
+
+
+
